@@ -11,7 +11,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-#define KC_BIN_VERSION "0.1.0"
+#define KC_BIN_VERSION "1.0.0"
 
 /**
  * Reads text from standard input into a dynamically allocated buffer.
